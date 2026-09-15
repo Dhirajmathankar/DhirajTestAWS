@@ -1,0 +1,21 @@
+{
+  "name": "awscodepipeline",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000h\u0000i\u0000r\u0000a\u0000j\u0000T\u0000e\u0000s\u0000t\u0000A\u0000W\u0000S\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/Dhirajmathankar/DhirajTestAWS#readme",
+  "bugs": {
+    "url": "https://github.com/Dhirajmathankar/DhirajTestAWS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhirajmathankar/DhirajTestAWS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
