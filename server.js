@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     "Content-Type": "text/plain"
   });
 
-  res.end("Hello from AWS CI/CD Demo!");
+  res.end("Hello from AWS CI/CD Demo! this is Testing Commit.");
 });
 
 server.listen(PORT, () => {
